@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Demo link: 
+Demo link: https://metaversus-2dsct5j5l-tonyvu258.vercel.app/
 
 ## Getting Started
 ![image](https://github.com/TonyVu258/metaversus/assets/106571192/e542ce16-c750-4f5a-b9af-d33914e43a4e)
