@@ -1,9 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Demo link: https://threejs-ai-site.netlify.app/
+Demo link: 
 
 ## Getting Started
-![image](https://github.com/TonyVu258/metaversus/assets/106571192/8704b8e5-c598-44cf-9a56-97ea5c0710e7)
+![image](https://github.com/TonyVu258/metaversus/assets/106571192/e542ce16-c750-4f5a-b9af-d33914e43a4e)
 
 First, run the development server:
 
